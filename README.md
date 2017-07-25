@@ -1,4 +1,4 @@
-# CreateCAHCards
+# Create Cards Against Humanity Cards
 C# app that generates CAH cards based on text file list
 
 "What was Hannah's "14th" reason why?"
@@ -31,3 +31,10 @@ Files:
 - black.txt
 -- This is the list of black cards you want created.
 
+
+Once set, you can manually print these out OR head on over here:
+http://www.printerstudio.com/personalized/custom-playing-cards-gifts.html
+Choose:
+- Standard 300GSM (smooth)
+
+It'll set you back roughly $30 for 115 cards.
